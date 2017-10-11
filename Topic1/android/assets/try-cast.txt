@@ -1,0 +1,80 @@
+World War 1 Ends 
+1918.0
+Treaty of Versailles 
+1919.0
+Treaty of St Germain 
+1919.5
+League of Nations Formed 
+1920.0
+Treaty of Trianon 
+1920.4
+Treaty of Sevres
+1920.5
+Washington Naval
+1921.2
+Upper Silesia
+1921.3
+Aaland Island Dispute
+1921.4
+Rapallo Treaty
+1922.0
+Ruhr Crisis
+1923.1
+Corfu Crisis
+1923.8
+Dawes Plan
+1924.0
+Greece-Bulgaria Crisis
+1925.0
+Locarno Pact
+1925.3
+Germany Join LoN
+1926.0
+Kellog Briand Pact
+1928.3
+Young Plan
+1929.0
+Wall Street Crash
+1929.8
+Mukden Incident
+1931.7
+Geneva Conference
+1932.4
+Lytton Commision
+1932.5
+Hitler Becomes Chancellor
+1933.4
+Japan Leaves LoN
+1933.5
+Germany Leaves LoN
+1933.7
+Failed Anschluss
+1934.2
+Anglo-German Naval
+1935.4
+Stresa Front
+1935.5
+Italy Invades Abyssinia
+1935.2
+Hitler Re-Enters Rhineland
+1936.3
+Germany In Spanish Civil War
+1936.7
+Rome-Berlin Axis
+1936.8
+Germany-Japan Anti-Comintern
+1936.9
+Munich Agreement
+1938.7
+Germany Invades Sudetenland
+1938.9
+Hitler Enters Czechoslovakia
+1939.3
+Pact of Steel
+1939.4
+Britain-Poland Agreement
+1939.9
+Nazi-Soviet Pact
+1939.8
+Poland Invaded
+1939.9

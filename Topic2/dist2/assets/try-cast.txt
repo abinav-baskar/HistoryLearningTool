@@ -1,0 +1,34 @@
+Tehran Conference
+1943.0
+Yalta Conference
+1945.0
+Potsdam Conference
+1945.1
+WW2 Ends
+1945.2
+Iron Curtain Speech
+1946.0
+Truman Doctrine
+1947.0
+COMINFORM Started
+1947.3
+Berlin Blockade Start
+1948.6
+COMECON Started
+1949.1
+NATO Started
+1949.4
+Korean War Started
+1950.1
+Warsaw Pact
+1955.0
+Hungarian Uprising
+1956.8
+Bay of Pigs 
+1961.2
+U2 Crisis 
+1960.3
+Berlin Wall Built
+1961.8
+Cuban Crisis
+1962.8
